@@ -10,7 +10,7 @@ header:
   image: dryicerender.gif
   actions:
     - label: "Neural Volumes &emdash; <i>out now</i>"
-    url: "/projects/neuralvolumes/"
+      url: "/projects/neuralvolumes/"
 ---
 
 
