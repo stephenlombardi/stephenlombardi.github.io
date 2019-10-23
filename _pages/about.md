@@ -9,7 +9,7 @@ redirect_from:
 header:
   image: dryicerender.gif
   actions:
-    - label "Neural Volumes &emdash; <i>out now</i>"
+    - label: "Neural Volumes &emdash; <i>out now</i>"
     url: "/projects/neuralvolumes/"
 ---
 
