@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 header:
   image: dryicerender.gif
+  actions:
+    - label "Neural Volumes &emdash; <i>out now</i>"
+    url: "/projects/neuralvolumes/"
 ---
+
+
 
 I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm trying to create machine learning models to render photorealistic virtual humans. I'm interested in computer graphics, computer vision, and machine learning.
 
