@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: dryicerender.gif
+  overlay_image: dryicerender.gif
   actions:
     - label: "Neural Volumes &emdash; <i>out now</i>"
       url: "/projects/neuralvolumes/"
