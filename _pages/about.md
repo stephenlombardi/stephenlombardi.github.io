@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +8,11 @@ redirect_from:
 header:
   overlay_image: dryicerender.gif
   actions:
-    - label: "Neural Volumes &emdash; <i>out now</i>"
+    - label: "Neural Volumes"
       url: "/projects/neuralvolumes/"
 ---
 
-
+# About
 
 I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm trying to create machine learning models to render photorealistic virtual humans. I'm interested in computer graphics, computer vision, and machine learning.
 
