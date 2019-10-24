@@ -9,7 +9,7 @@ header:
 
 We present a learning-based approach to representing dynamic objects, supervised directly from 2D images in a multi-view capture setting. The method consists of an encoder-decoder network that transforms input images into a 3D volume representation, and a differentiable ray-marching operation that enables end-to-end training. The method learns a dynamic warp field that greatly improves the apparent resolution and reduces grid-like artifacts and jagged motion.
 
-#### [Read the paper](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/) &nbsp; |  &nbsp; [Download the code & data](https://github.com/facebookresearch/neuralvolumes)
+[Read the paper](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/) &nbsp; |  &nbsp; [Download the code & data](https://github.com/facebookresearch/neuralvolumes)
 
 ### Examples
 
