@@ -21,7 +21,7 @@ I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm worki
 
 ## Recent Projects
 
-{% for post in site.projects limits:1 %} {% include archive-single.html %} {% endfor %}
+{% for post in site.projects limits:1 %} {% include archive-single.html type="grid" %} {% endfor %}
 
 ## Full Publication List
 
