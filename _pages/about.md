@@ -26,6 +26,7 @@ I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm worki
   {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
+<div style="clear: both;"></div>
 
 ## Full Publication List
 
