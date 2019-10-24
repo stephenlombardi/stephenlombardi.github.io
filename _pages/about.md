@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Neural Volumes"
-exerpt: "Code & data available now"
+excerpt: "Code & data available now"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,12 @@ header:
 
 I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm working on techniques to render and animate photorealistic virtual humans in real time. To do this, I'm combining ideas from computer graphics, computer vision, and machine learning. I got my Ph.D. in 2016 from Drexel University, advised by [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/).
 
-## Publications
+## Recent Projects
+
+{% assign post = site.projects.neuralvolumes %}
+{% include archive-single.html %}
+
+## Full Publication List
 
 [**Neural Volumes: Learning Dynamic Renderable Volumes from Images**](/projects/neuralvolumes/)
 Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh  
