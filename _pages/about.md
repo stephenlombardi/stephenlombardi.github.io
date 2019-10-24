@@ -30,10 +30,10 @@ I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm worki
 
 ## Full Publication List
 
-[**Neural Volumes: Learning Dynamic Renderable Volumes from Images**](/projects/neuralvolumes/)  
-Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh  
-ACM Transactions on Graphics (SIGGRAPH 2019) 38, 4, Article 65  
-[ [arXiv](https://arxiv.org/abs/1906.07751) ] [ [supplemental video](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/) ] [ **[code & data](https://github.com/facebookresearch/neuralvolumes)** ]  
+[**Neural Volumes: Learning Dynamic Renderable Volumes from Images**](/projects/neuralvolumes/)<br />
+Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh<br />
+ACM Transactions on Graphics (SIGGRAPH 2019) 38, 4, Article 65<br />
+[ [arXiv](https://arxiv.org/abs/1906.07751) ] [ [supplemental video](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/) ] [ **[code & data](https://github.com/facebookresearch/neuralvolumes)** ]<br />
 <details><summary>Bibtex</summary><pre>
 @article{Lombardi:2019,
  author = {Lombardi, Stephen and Simon, Tomas and Saragih, Jason and Schwartz, Gabriel and Lehrmann, Andreas and Sheikh, Yaser},
