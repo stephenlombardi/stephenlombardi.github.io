@@ -9,9 +9,16 @@ header:
 
 We present a learning-based approach to representing dynamic objects, supervised directly from 2D images in a multi-view capture setting. The method consists of an encoder-decoder network that transforms input images into a 3D volume representation, and a differentiable ray-marching operation that enables end-to-end training. The method learns a dynamic warp field that greatly improves the apparent resolution and reduces grid-like artifacts and jagged motion.
 
-[Read the paper](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/) &nbsp; |  &nbsp; [Download the code & data](https://github.com/facebookresearch/neuralvolumes)
+[Read the paper](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/)  
+[Download the code & data](https://github.com/facebookresearch/neuralvolumes)  
 
-### Examples
+### Differentiable Ray Marching
+
+The decoder generates a volume that contains RGB and opacity values. To render this volume to an image, we use a differentiable ray marching algorithm. The idea is that we integrate the RGB and opacity values through the volume along the ray defined by each pixel.
+
+{% include figure image_path="/images/raymarching.gif" caption="Visualization of differentiable ray marching. A line integral is computed through the volume along the ray defined by each pixel. This allows the system to be trained end-to-end." %}
+
+### Example Results
 
 <img src="/images/dryicerender.gif" />
 
