@@ -5,6 +5,15 @@ collection: projects
 header: 
   image: neuralvolumes2.jpg
   teaser: neuralvolumes3.jpg
+gallery:
+  - url: /images/steve.gif
+    image_path: /images/steve.gif
+    alt: "neural volume example 1"
+    title: "Virtual Human"
+  - url: /images/dryicerender2.gif
+    image_path: /images/dryicerender2.gif
+    alt: "neural volume example 2"
+    title: "Sublimating Dry Ice"
 ---
 
 We present a learning-based approach to representing dynamic objects, supervised directly from 2D images in a multi-view capture setting. The method consists of an encoder-decoder network that transforms input images into a 3D volume representation, and a differentiable ray-marching operation that enables end-to-end training. The method learns a dynamic warp field that greatly improves the apparent resolution and reduces grid-like artifacts and jagged motion.
@@ -20,9 +29,7 @@ The decoder generates a volume that contains RGB and opacity values. To render t
 
 ### Example Results
 
-<img src="/images/dryicerender.gif" />
-
-<img src="/images/steve.gif" />
+{% include gallery caption="Example reconstructions" %}
 
 ### Bibtex
 <pre>
