@@ -34,7 +34,7 @@ I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm worki
 Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh  
 ACM Transactions on Graphics (SIGGRAPH 2019) 38, 4, Article 65  
 [ [arXiv](https://arxiv.org/abs/1906.07751) ] [ [supplemental video](https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/) ] [ **[code & data](https://github.com/facebookresearch/neuralvolumes)** ]  
-<details><summary>Bibtex</summary><p><pre>
+<details><summary>Bibtex</summary><pre>
 @article{Lombardi:2019,
  author = {Lombardi, Stephen and Simon, Tomas and Saragih, Jason and Schwartz, Gabriel and Lehrmann, Andreas and Sheikh, Yaser},
  title = {Neural Volumes: Learning Dynamic Renderable Volumes from Images},
@@ -50,7 +50,7 @@ ACM Transactions on Graphics (SIGGRAPH 2019) 38, 4, Article 65
  publisher = {ACM},
  address = {New York, NY, USA},
 } 
-</pre></p></details>  
+</pre></details><br />
 
 **VR Facial Animation via Multiview Image Translation**  
 Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Michal Perdoch, Alexander Hypes, Dawei Wang, Hernan Badino, Yaser Sheikh  
