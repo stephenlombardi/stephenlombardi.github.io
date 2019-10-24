@@ -6,12 +6,12 @@ header:
   image: neuralvolumes2.jpg
   teaser: neuralvolumes3.jpg
 gallery:
-  - url: /images/steve.gif
-    image_path: /images/steve.gif
+  - url: steve.gif
+    image_path: steve.gif
     alt: "neural volume example 1"
     title: "Virtual Human"
-  - url: /images/dryicerender2.gif
-    image_path: /images/dryicerender2.gif
+  - url: dryicerender2.gif
+    image_path: dryicerender2.gif
     alt: "neural volume example 2"
     title: "Sublimating Dry Ice"
 ---
