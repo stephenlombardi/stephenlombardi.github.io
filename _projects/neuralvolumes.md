@@ -1,8 +1,9 @@
 ---
 title: "Neural Volumes"
+excerpt: ""
 collection: projects
 header: 
-  overlay_image: neuralvolumes.jpg
+  image: neuralvolumes.jpg
 ---
 
 # About
