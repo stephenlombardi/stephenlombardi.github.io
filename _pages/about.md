@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Neural Volumes"
-excerpt: "Code & data available now"
+excerpt: "Code & data available!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 header:
   overlay_image: dryicerender.gif
   actions:
-    - label: "find out more"
+    - label: "more info"
       url: "/projects/neuralvolumes/"
 ---
 
@@ -17,7 +17,7 @@ header:
 
 # About me
 
-I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm working on techniques to render and animate photorealistic virtual humans in real time. To do this, I'm combining ideas from computer graphics, computer vision, and machine learning. I got my Ph.D. in 2016 from Drexel University, advised by [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/).
+I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm working on techniques to render and animate photorealistic virtual humans in real time. To do this, I'm combining ideas from computer graphics, computer vision, and machine learning. I got my Ph.D. in 2016 from Drexel University, advised by [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), and I got my Bachelor's degree in 2009 from The College of New Jersey.
 
 ## Recent Projects
 
