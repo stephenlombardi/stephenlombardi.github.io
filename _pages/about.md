@@ -11,6 +11,14 @@ header:
   actions:
     - label: "more info"
       url: "/projects/neuralvolumes/"
+feature_row:
+  - image_path: neuralvolumes3.jpg
+    alt: "Neural Volumes"
+    title: "Neural Volumes"
+    excerpt: "Neural Volumes is a method for representing dynamic objects, supervised directly from 2D images from a multi-view capture stage."
+    url: "/projects/neuralvolumes/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
 ---
 
 {% include base_path %}
@@ -21,12 +29,7 @@ I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm worki
 
 ## Recent Projects
 
-<div class="grid__wrapper">
-{% for post in site.projects limit:3 %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
-</div>
-<div style="clear: both;"></div>
+{% include feature_row %}
 
 ## Full Publication List
 
