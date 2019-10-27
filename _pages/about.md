@@ -25,7 +25,7 @@ feature_row:
 
 # About me
 
-I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm working on techniques to render and animate photorealistic virtual humans in real time. To do this, I'm combining ideas from computer graphics, computer vision, and machine learning. I got my Ph.D. in 2016 from Drexel University, advised by [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), and I got my Bachelor's degree in 2009 from The College of New Jersey.
+I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm working on creating techniques to [render and animate photorealistic virtual humans in real time](https://www.wired.com/story/facebook-oculus-codec-avatars-vr/). To do this, I'm combining ideas from computer graphics, computer vision, and machine learning. I got my Ph.D. in 2016 from Drexel University, advised by [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/), and I got my Bachelor's degree in 2009 from The College of New Jersey.
 
 ## Recent Projects
 
