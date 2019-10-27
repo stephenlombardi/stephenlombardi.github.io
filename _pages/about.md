@@ -53,7 +53,7 @@ ACM Transactions on Graphics (SIGGRAPH 2019) 38, 4, Article 67
 [**Deep Appearance Models for Face Rendering**](/projects/deepappearancemodels/)  
 Stephen Lombardi, Jason Saragih, Tomas Simon, Yaser Sheikh  
 ACM Transactions on Graphics (SIGGRAPH 2018) 37, 4, Article 68  
-[ [arXiv](https://arxiv.org/abs/1808.00362) ] [ [supplemental video](https://research.fb.com/publications/deep-appearance-models-for-face-rendering/) ] [ [talk video](https://www.youtube.com/watch?v=3IZ2KGH1lR0) ]  
+[ [arXiv](https://arxiv.org/abs/1808.00362) ] [ [supplemental video](https://research.fb.com/publications/deep-appearance-models-for-face-rendering/) ] [ [talk video](https://www.youtube.com/watch?v=3IZ2KGH1lR0) ] [ [bibtex](/projects/deepappearancemodels/#bibtex) ]  
 
 **Radiometric Scene Decomposition: Estimating Complex Reflectance and Natural Illumination from Images**  
 Stephen Lombardi  
