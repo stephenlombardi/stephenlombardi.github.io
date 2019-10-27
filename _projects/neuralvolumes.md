@@ -2,7 +2,7 @@
 title: "Neural Volumes"
 excerpt: "Neural Volumes is a method for representing dynamic objects, supervised directly from 2D images from a multi-view capture stage."
 collection: projects
-date: 2019-07-01 00:00:00
+orderdate: 2019-07-01 00:00:00
 header: 
   image: neuralvolumes2.jpg
   teaser: neuralvolumes3.jpg
