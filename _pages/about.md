@@ -19,6 +19,13 @@ feature_row:
     url: "/projects/neuralvolumes/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+  - image_path: dam_small.jpg
+    alt: "Deep Appearance Models"
+    title: "Deep Appearance Models"
+    excerpt: "Deep Appearance Models is a method for creating high-quality face models and driving them from a cameras mounted on a VR headset."
+    url: "/projects/deepappearancemodels/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
 ---
 
 {% include base_path %}
@@ -43,7 +50,7 @@ Shih-En Wei, Jason Saragih, Tomas Simon, Adam W. Harley, Stephen Lombardi, Micha
 ACM Transactions on Graphics (SIGGRAPH 2019) 38, 4, Article 67  
 [ [PDF](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/) ] [ [supplemental video](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/) ]  
 
-**Deep Appearance Models for Face Rendering**  
+[**Deep Appearance Models for Face Rendering**](/projects/deepappearancemodels/)  
 Stephen Lombardi, Jason Saragih, Tomas Simon, Yaser Sheikh  
 ACM Transactions on Graphics (SIGGRAPH 2018) 37, 4, Article 68  
 [ [arXiv](https://arxiv.org/abs/1808.00362) ] [ [supplemental video](https://research.fb.com/publications/deep-appearance-models-for-face-rendering/) ] [ [talk video](https://www.youtube.com/watch?v=3IZ2KGH1lR0) ]  
