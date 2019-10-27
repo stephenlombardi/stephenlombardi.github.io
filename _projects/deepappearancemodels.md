@@ -3,7 +3,7 @@ title: "Deep Appearance Models"
 excerpt: "Deep Appearance Models is a method for creating high-quality face models and driving them from a cameras mounted on a VR headset."
 collection: projects
 header: 
-  image: damheader.jpg
+  image: damheader2.jpg
   teaser: dam_small.jpg
 gallery:
   - url: stevedam.gif
@@ -44,3 +44,7 @@ Deep Appearance Models is a method for taking multi-view capture data and creati
  address = {New York, NY, USA},
 } 
 </pre>
+
+### Related Papers
+
+Check out our follow-up work [here](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)  
