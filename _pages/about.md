@@ -40,6 +40,16 @@ I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm worki
 
 ## Full Publication List
 
+**The Eyes Have It: An Integrated Eye and Face Model for Photorealistic Facial Animation**  
+Gabriel Schwartz, Shih-En Wei, Te-Li Wang, Stephen Lombardi, Tomas Simon, Jason Saragih, Yaser Sheikh  
+ACM Transactions on Graphics (SIGGRAPH 2020) 39, 4, Article 91  
+[ [PDF](https://research.fb.com/wp-content/uploads/2020/06/The-Eyes-Have-It-An-Integrated-Eye-and-Face-Model-for-Photorealistic-Facial-Animation.pdf) ] [ [supplemental video](https://research.fb.com/publications/the-eyes-have-it-an-integrated-eye-and-face-model-for-photorealistic-facial-animation/) ]  
+
+**State of the Art on Neural Rendering**  
+Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer  
+Computer Graphics Forum 2020 (STAR Report)  
+[ [arXiv](https://arxiv.org/abs/2004.03805) ]  
+
 [**Neural Volumes: Learning Dynamic Renderable Volumes from Images**](/projects/neuralvolumes/)  
 Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh  
 ACM Transactions on Graphics (SIGGRAPH 2019) 38, 4, Article 65  
