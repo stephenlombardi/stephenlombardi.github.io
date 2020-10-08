@@ -38,7 +38,7 @@ I'm a Research Scientist working at Facebook Reality Labs, Pittsburgh. I'm worki
 
 {% include feature_row %}
 
-## Full Publication List
+## Full Publication List  
 
 **The Eyes Have It: An Integrated Eye and Face Model for Photorealistic Facial Animation**  
 Gabriel Schwartz, Shih-En Wei, Te-Li Wang, Stephen Lombardi, Tomas Simon, Jason Saragih, Yaser Sheikh  
